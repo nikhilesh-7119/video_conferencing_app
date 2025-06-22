@@ -1,4 +1,4 @@
-# zoom_clone_tutorial
+# video_conferencing_app
 
 A new Flutter project.
 
