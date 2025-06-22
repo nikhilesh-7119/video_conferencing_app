@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "838519492963",
+    "project_id": "zoom-clone-tutorial-2ce09",
+    "storage_bucket": "zoom-clone-tutorial-2ce09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838519492963:android:77cb1202abeda05cc8c356",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838519492963-045c4gkj417rt5m59f663n6n0ktqf5f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone_tutorial",
+            "certificate_hash": "21fce8f869b08e4e2e990280070de6d73f8972da"
+          }
+        },
+        {
+          "client_id": "838519492963-cbkh5eraiblbjncs05im03s6fdc7p6bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9MHaYimaEuJxO9c3goDhDU_zYPO5t34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838519492963-cbkh5eraiblbjncs05im03s6fdc7p6bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
